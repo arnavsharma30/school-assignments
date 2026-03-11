@@ -1,0 +1,37 @@
+Self-Directed Learning: UGT, Growth Mindset, and Lifelong Learning
+
+Part 1: Learning Theory
+
+The Uses and Gratification Theory (UGT) influences my motivation by shifting the focus from passive learning to active engagement. Baldwin et al. (2020) indicate that "applying UGT to education is a learner-centered approach that focuses on helping you take control of how and what you learn" (Section 2.2). This resonates with my experience as an online learner at UoPeople, where I must actively seek out resources, engage with course materials, and make connections between what I learn and my personal goals. UGT motivates me because it frames learning as something I choose to do for my own benefit rather than something imposed on me. When I understand why I am learning something and how it serves my goals, whether for career advancement in computer science or personal growth, I am more engaged and willing to invest effort into the process.
+
+Part 2: Growth Mindset
+
+Q: Which mindset does negative bias engage?
+
+Negative bias engages a fixed mindset. When individuals focus on negative feedback or failures, they tend to believe their abilities are unchangeable, which discourages them from trying again or seeking improvement (Dweck, 2006).
+
+Q: When receiving feedback, which growth mindset do you most often have?
+
+When receiving feedback, I most often adopt a growth mindset focused on learning from mistakes. Rather than viewing criticism as a personal attack, I try to see it as information that can help me improve. However, I acknowledge that my initial reaction is sometimes defensive, which is a fixed mindset response I am actively working to overcome.
+
+Q: Explain a strategy that can be incorporated to influence your acceptance of feedback.
+
+One effective strategy is the "pause and reflect" technique. When receiving feedback, instead of reacting immediately, I pause and ask myself what I can learn from it. Brock and Hundley (2020) suggest that reframing feedback as a tool for growth rather than a judgment of ability helps students develop resilience and openness to constructive criticism. Specifically, I write down the feedback, identify one actionable step I can take based on it, and implement that step in my next assignment. This process transforms feedback from something I receive passively into something I actively use.
+
+Part 3: Being a Life-Long Learner
+
+Two strengths in my learning process are self-discipline and curiosity. I am able to set schedules and stick to them, which helps me manage the demands of online education. My curiosity drives me to explore topics beyond what is required, which deepens my understanding. Two weaknesses are procrastination and difficulty asking for help. I sometimes delay starting assignments until close to the deadline, and I hesitate to reach out to instructors or peers when I am struggling with a concept.
+
+To become a self-directed and lifelong learner, I will set weekly learning goals beyond my coursework, such as completing one module on a platform like Khan Academy or reading one article related to my field each week. I will also actively seek feedback from peers and instructors rather than waiting for it to come to me.
+
+To develop G.R.I.T. (Growth, Resilience, Instinct, and Tenacity), I will use three strategies. First, I will set challenging but achievable goals each term to build growth through incremental progress. Second, I will practice resilience by treating setbacks as learning opportunities rather than failures, applying the pause and reflect technique from Part 2. Third, I will build tenacity by committing to a consistent daily study routine, even on days when motivation is low, because discipline sustains progress when motivation fades.
+
+Word Count: 548
+
+References
+
+Baldwin, A., August, L., Bennett, J., Mathues, S., Monroe, S., O'Leary, M. J., Pearson, A., Troesh, J., & Watts, J. (2020). College Success. OpenStax. https://openstax.org/details/books/college-success
+
+Brock, A., & Hundley, H. (2020). The growth mindset playbook: A teacher's guide to promoting student success. Ulysses Press.
+
+Dweck, C. S. (2006). Mindset: The new psychology of success. Random House.

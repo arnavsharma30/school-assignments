@@ -1,0 +1,39 @@
+Fixed Mindset vs Growth Mindset — Notes
+
+SIMILARITIES:
+- Both are cognitive frameworks that shape how people interpret experiences
+- Both influence academic performance and motivation
+- Both can be present in the same person depending on the situation
+- Both are influenced by feedback, environment, and past experiences
+
+FIXED MINDSET:
+- Believes intelligence and talent are innate and unchangeable
+- Avoids challenges to prevent failure
+- Gives up easily when facing obstacles
+- Views effort as pointless ("if I were smart, I wouldn't need to try")
+- Ignores or rejects constructive criticism
+- Feels threatened by the success of others
+- Negative bias reinforces this mindset
+- Leads to plateauing early and not reaching full potential
+
+GROWTH MINDSET:
+- Believes intelligence and abilities can be developed through effort
+- Embraces challenges as opportunities to learn
+- Persists through setbacks and obstacles
+- Views effort as the path to mastery
+- Learns from criticism and feedback
+- Finds inspiration in the success of others
+- Leads to higher achievement over time
+- Encourages risk-taking and experimentation in learning
+
+KEY DIFFERENCES:
+| Aspect          | Fixed Mindset              | Growth Mindset              |
+|-----------------|----------------------------|-----------------------------|
+| Intelligence    | Static, born with it       | Developable through effort  |
+| Challenges      | Avoided                    | Embraced                    |
+| Effort          | Seen as weakness           | Seen as necessary           |
+| Feedback        | Rejected/ignored           | Used for improvement        |
+| Failure         | Defines identity           | Seen as learning opportunity|
+| Others' success | Threatening                | Inspiring                   |
+
+Source: Dweck, C. S. (2006). Mindset: The new psychology of success. Random House.
